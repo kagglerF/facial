@@ -1,2 +1,2 @@
-# this repository was made for code chare. 
+# this repository was made for code share. 
 # 
